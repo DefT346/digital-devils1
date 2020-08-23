@@ -1,0 +1,9 @@
+C:\Users\mayorov\source\repos\digital-devils_windows\bin\Debug\digital-devils_windows.exe.config
+C:\Users\mayorov\source\repos\digital-devils_windows\bin\Debug\digital-devils_windows.exe
+C:\Users\mayorov\source\repos\digital-devils_windows\bin\Debug\digital-devils_windows.pdb
+C:\Users\mayorov\source\repos\digital-devils_windows\obj\Debug\digital_devils_windows.Form1.resources
+C:\Users\mayorov\source\repos\digital-devils_windows\obj\Debug\digital_devils_windows.Properties.Resources.resources
+C:\Users\mayorov\source\repos\digital-devils_windows\obj\Debug\digital-devils_windows.csproj.GenerateResource.cache
+C:\Users\mayorov\source\repos\digital-devils_windows\obj\Debug\digital-devils_windows.csproj.CoreCompileInputs.cache
+C:\Users\mayorov\source\repos\digital-devils_windows\obj\Debug\digital-devils_windows.exe
+C:\Users\mayorov\source\repos\digital-devils_windows\obj\Debug\digital-devils_windows.pdb
